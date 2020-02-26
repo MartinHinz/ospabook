@@ -1,6 +1,6 @@
-# kaobook
+# ospabook
 
-A LaTeX class for books, reports or theses.
+A LaTeX class for books, reports or theses, based on kaobook. Currently, only the book style is adapted for the needs of OSPA.
 
 ## Acknowledgements
 
